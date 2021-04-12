@@ -1,7 +1,9 @@
 # Lab3Web
 
 Nama: Nisa Madani
+
 NIM: 311910754
+
 Kelas: 19.TI.B1
 
 Persiapan membuat dokumen HTML dengan nama file lab3_list.html, setelah itu membuat ordered list seperti pada gambar di bawah ini
